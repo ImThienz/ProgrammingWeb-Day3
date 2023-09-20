@@ -1,0 +1,20 @@
+.layout2 {
+    width: 20%;
+    height: 10%;
+    background: black;
+    border: 3px;
+    text-align:left;
+    color:white;
+    font-size:20px;
+
+}
+
+.txt1{
+    font-size:17px;
+    width:10%;
+    height:10%;
+    background:solid green;
+    text-align:left;
+    border:3px;
+    
+}
